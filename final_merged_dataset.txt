@@ -1,0 +1,78 @@
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ014-0277.wav|An inquiry was at once set on foot
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ002-0001.wav|The Chronicles of Newgate
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ033-0098.wav|Oswald left the car first
+TTS_Fine_Tuning_Project/datasets/audio_files/audio12.wav|Version control systems like Git track changes in code, facilitating collaboration among multiple developers.
+TTS_Fine_Tuning_Project/datasets/audio_files/audio20.wav|Cybersecurity measures are critical for protecting data integrity, confidentiality, and availability in digital environments.
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ015-0032.wav|and on the other by backing up
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ018-0031.wav|This fixed the crime pretty certainly upon Müller
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ019-0360.wav|This he might do on the representation of the inspector of prisons
+TTS_Fine_Tuning_Project/datasets/audio_files/audio19.wav|Blockchain ensures secure and transparent transactions through decentralized ledger technology and cryptographic security.
+TTS_Fine_Tuning_Project/datasets/audio_files/audio23.wav|Data mining uncovers patterns in large datasets, leveraging statistical methods to extract meaningful insights.
+TTS_Fine_Tuning_Project/datasets/audio_files/audio29.wav|Digital transformation enhances operational efficiency through technology, fundamentally changing how organizations deliver value to customers.
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ048-0120.wav|has been that provided by a requirement that he file interim and final reports on each advance assignment.
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ016-0203.wav|He got besides half-a-crown for every man he flogged
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ016-0308.wav|yet the witnesses were not unanimous.
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ034-0069.wav|was provided by the testimony of Charles Givens
+TTS_Fine_Tuning_Project/datasets/audio_files/audio16.wav|APIs facilitate data exchange between services, allowing for the integration of disparate systems and technologies.
+TTS_Fine_Tuning_Project/datasets/audio_files/audio26.wav|Microservices architecture enables scalable and flexible applications by breaking down complex systems into manageable services.
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ044-0007.wav|that he was involved in any conspiracy
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ033-0058.wav|On the day of the assassination
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ016-0276.wav|Never
+TTS_Fine_Tuning_Project/datasets/audio_files/audio28.wav|Embedded systems integrate hardware and software for specific functions, often found in consumer electronics and industrial machines.
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ047-0035.wav|Oswald's file at the Department of State Passport Office was reviewed in June 1962.
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ008-0075.wav|She is described as a well-made little woman
+TTS_Fine_Tuning_Project/datasets/audio_files/audio15.wav|Java is platform-independent due to its JVM, enabling developers to run their applications on any device.
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ006-0238.wav|There was a disturbance in the transport yard yesterday evening
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ046-0167.wav|When PRS learns of an individual whose conduct warrants scrutiny
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ013-0268.wav|Good ladies and gentlemen all
+TTS_Fine_Tuning_Project/datasets/audio_files/audio30.wav|Natural Language Processing enables machines to understand human language, facilitating interactions between people and computers.
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ047-0222.wav|He had made the same statement about a week prior at another special conference which we had held.
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ046-0057.wav|or Thomas Jefferson from Washington to Monticello.
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ013-0069.wav|A second will
+TTS_Fine_Tuning_Project/datasets/audio_files/audio6.wav|Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming.
+TTS_Fine_Tuning_Project/datasets/audio_files/audio24.wav|Agile methodologies promote adaptive planning in software development, allowing teams to respond quickly to changes.
+TTS_Fine_Tuning_Project/datasets/audio_files/audio25.wav|User experience design focuses on optimizing product usability, ensuring a seamless interaction between users and systems.
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ029-0189.wav|The local
+TTS_Fine_Tuning_Project/datasets/audio_files/audio18.wav|Data visualization helps in making data-driven decisions by presenting complex information in an easily digestible format.
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ029-0117.wav|According to Lawson
+TTS_Fine_Tuning_Project/datasets/audio_files/audio1.wav|The API allows applications to communicate.
+TTS_Fine_Tuning_Project/datasets/audio_files/audio22.wav|Artificial Intelligence can mimic human cognitive functions, enhancing machine learning models with advanced capabilities.
+TTS_Fine_Tuning_Project/datasets/audio_files/audio27.wav|Quantum computing has the potential to revolutionize problem-solving by utilizing quantum bits to perform calculations at unprecedented speeds.
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ029-0048.wav|On November 8
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ045-0222.wav|The feelings of hostility and aggression which seem to have played such an important role
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ042-0095.wav|to attend a university in Moscow
+TTS_Fine_Tuning_Project/datasets/audio_files/audio27.wav|CSS styles HTML elements for better presentation, using selectors to target specific elements with various attributes.
+TTS_Fine_Tuning_Project/datasets/audio_files/audio27.wav|wishing to verify the value of warrants they held
+TTS_Fine_Tuning_Project/datasets/audio_files/audio27.wav|he was still untried
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ032-0197.wav|Photograph of Oswald With Rifle
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ016-0004.wav|Yet the jail
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ044-0147.wav|and in late June or early July he told his wife that he wanted to return to the Soviet Union with her.
+TTS_Fine_Tuning_Project/datasets/audio_files/audio3.wav|TTS technology converts written text into spoken words, enhancing accessibility.
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ009-0224.wav|At the first-named the exhibition nearly created a tumult.
+TTS_Fine_Tuning_Project/datasets/audio_files/audio11.wav|Cloud computing offers on-demand resources over the internet, enabling scalable solutions for businesses.
+TTS_Fine_Tuning_Project/datasets/audio_files/audio21.wav|Network protocols define rules for data exchange, ensuring reliable and efficient communication between devices.
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ014-0176.wav|His determined addiction to evil courses had led to his being cast off by his family.
+TTS_Fine_Tuning_Project/datasets/audio_files/audio5.wav|REST is an architectural style for designing networked applications, relying on stateless communication.
+TTS_Fine_Tuning_Project/datasets/audio_files/audio13.wav|HTML is the backbone of web content structure, allowing for the creation of semantic and accessible documents.
+TTS_Fine_Tuning_Project/datasets/audio_files/audio7.wav|JavaScript is commonly used for interactive web pages, allowing for dynamic content updates without reloading.
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ042-0017.wav|and see for himself how a revolutionary society operates.
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ027-0120.wav|This reasonable expectation.
+TTS_Fine_Tuning_Project/datasets/audio_files/audio8.wav|Data structures, such as trees and graphs, are essential for efficient algorithms and optimized data retrieval.
+TTS_Fine_Tuning_Project/datasets/audio_files/audio10.wav|Deep learning models require large datasets for training and can achieve remarkable performance on complex tasks.
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ028-0389.wav|St. Jerome said:
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ022-0057.wav|The program for social security now pending before the Congress is a necessary part of the future unemployment policy of the government.
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ012-0248.wav|The inquest on these remains.
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ047-0210.wav|I think all of those.
+TTS_Fine_Tuning_Project/datasets/audio_files/audio17.wav|Software frameworks streamline the development process by providing reusable components and architecture patterns.
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ039-0025.wav|After further questioning.
+TTS_Fine_Tuning_Project/datasets/audio_files/audio9.wav|Machine learning can be supervised or unsupervised, depending on the presence of labeled data during training.
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ010-0227.wav|He went from Newgate first to Bethlehem.
+TTS_Fine_Tuning_Project/datasets/audio_files/audio2.wav|CUDA is a parallel computing platform designed to utilize the power of NVIDIA GPUs.
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ036-0215.wav|He approached the car and apparently exchanged words with Tippit through the right front or vent window.
+TTS_Fine_Tuning_Project/datasets/audio_files/audio4.wav|OAuth provides secure delegated access for third-party applications without exposing user credentials.
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ032-0096.wav|listing the names.
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ001-0016.wav|The Middle Ages brought calligraphy to perfection.
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ037-0005.wav|By the evening of November 22.
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ019-0181.wav|is an interesting document.
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ019-0354.wav|That no such contract was valid between one jurisdiction and another unless the Secretary of State was satisfied that the prison it was intended to use.
+TTS_Fine_Tuning_Project/datasets/LJ_Speech/LJSpeech-1.1/wavs/LJ032-0032.wav|that the bold printing on the face of the mail-order coupon was in the handprinting of Lee Harvey Oswald and that the writing on the envelope was also his.
